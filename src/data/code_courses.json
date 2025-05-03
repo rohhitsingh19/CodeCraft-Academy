@@ -1,0 +1,104 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "DSA Fundamentals",
+      "slug": "dsa-fundamentals",
+      "description": "Master data structures and algorithms with hands-on exercises and real-world applications.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "/courses/dsa.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Web Development Bootcamp",
+      "slug": "web-development-bootcamp",
+      "description": "Comprehensive course covering HTML, CSS, JavaScript, React, and Node.js for modern web development.",
+      "price": 129.99,
+      "instructor": "Jane Smith",
+      "isFeatured": true,
+      "image": "/courses/webdev.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Advanced JavaScript",
+      "slug": "advanced-javascript",
+      "description": "Deep dive into JavaScript concepts including closures, prototypes, async programming, and ES6+ features.",
+      "price": 119.99,
+      "instructor": "Emily Johnson",
+      "isFeatured": true,
+      "image": "/courses/javascript.jpg"
+    },
+    {
+      "id": 4,
+      "title": "DevOps Mastery",
+      "slug": "devops-mastery",
+      "description": "Learn CI/CD pipelines, containerization with Docker, Kubernetes orchestration, and cloud deployment strategies.",
+      "price": 149.99,
+      "instructor": "Mike Brown",
+      "isFeatured": false,
+      "image": "/courses/devops.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Cloud Computing Fundamentals",
+      "slug": "cloud-computing-fundamentals",
+      "description": "Introduction to AWS, Azure, and Google Cloud with hands-on projects and infrastructure as code.",
+      "price": 139.99,
+      "instructor": "Chris Davis",
+      "isFeatured": false,
+      "image": "/courses/cloud.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Python for Data Science",
+      "slug": "python-data-science",
+      "description": "Learn Python programming with libraries like Pandas, NumPy, and Matplotlib for data analysis and visualization.",
+      "price": 119.99,
+      "instructor": "Alex Wilson",
+      "isFeatured": true,
+      "image": "/courses/python-data.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Mobile App Development with React Native",
+      "slug": "react-native-development",
+      "description": "Build cross-platform mobile applications for iOS and Android using React Native and JavaScript.",
+      "price": 129.99,
+      "instructor": "Samantha Miller",
+      "isFeatured": false,
+      "image": "/courses/react-native.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Microservices Architecture",
+      "slug": "microservices-architecture",
+      "description": "Design and implement scalable microservices with API gateways, service discovery, and event-driven architecture.",
+      "price": 159.99,
+      "instructor": "Luke Harris",
+      "isFeatured": true,
+      "image": "/courses/microservices.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Database Design and SQL Mastery",
+      "slug": "database-sql-mastery",
+      "description": "Learn relational database design, normalization, SQL queries, indexing, and performance optimization techniques.",
+      "price": 109.99,
+      "instructor": "Grace Lee",
+      "isFeatured": false,
+      "image": "/courses/database.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Machine Learning Engineering",
+      "slug": "machine-learning-engineering",
+      "description": "Build and deploy machine learning models with TensorFlow, scikit-learn, and MLOps best practices.",
+      "price": 169.99,
+      "instructor": "Ethan Moore",
+      "isFeatured": true,
+      "image": "/courses/machine-learning.jpg"
+    }
+  ]
+}
