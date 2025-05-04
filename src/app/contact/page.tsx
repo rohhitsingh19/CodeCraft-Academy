@@ -71,7 +71,7 @@ function CodeSchoolContactUs() {
           <p className="text-neutral-300 max-w-2xl mx-auto text-lg">
             We&apos;re here to help with any questions about our courses,
             programs, or events. Reach out and let us know how we can assist you
-            in your musical journey.
+            in your Software journey.
           </p>
         </motion.div>
         
