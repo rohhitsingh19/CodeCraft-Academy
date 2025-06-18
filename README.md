@@ -1,36 +1,44 @@
-# CodeCraft-Academy 
-Landing Page of a Coding School course platform 
+# CodeCraft Academy 🎓
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+CodeCraft Academy is a nonprofit initiative dedicated to teaching children and teens foundational coding skills through engaging, hands‑on programs. Whether it's Python, web development (HTML/CSS/JavaScript), or Scratch, our mission is to empower the next generation to unlock their creative and technical potential.
+
+---
+
+## Features
+
+- ** Programming Fundamentals**  
+  - *Scratch*: Visual block‑based coding ideal for beginners.  
+  - *Python*: Text‑based coding to introduce syntax, logic, and problem‑solving.  
+  - *HTML/CSS/JavaScript*: Front‑end web development to build interactive web pages.
+
+- ** Accessible Learning Formats**  
+  - In‑person workshops, online live sessions, and self‑paced classes.  
+  - Library events and community meetups to foster collaboration.
+
+- ** Skill Progression**  
+  - Beginner-friendly tracks that guide learners from drag‑and‑drop basics to real‑world concepts.
+
+---
+
+## Built With
+
+- **Frontend**: React (or Vue/Angular), modern CSS frameworks  
+- **Backend**: Node.js / Express or serverless APIs  
+- **Data & Hosting**: JSON-based curriculum content + Vercel deployment
+
+---
 
 ## Getting Started
 
-First, run the development server:
+### Prerequisites
+
+- Node.js ≥14  
+- Git (optional, for local setup)
+
+### Local Setup
 
 ```bash
+git clone https://github.com/rohhitsingh19/CodeCraft-Academy.git
+cd CodeCraft-Academy
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
- 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome! 
-
-![Screenshot 2025-05-04 161527](https://github.com/user-attachments/assets/6b302a25-75e3-4a11-a2ba-1235c489fb21)
-
